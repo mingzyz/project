@@ -1,4 +1,7 @@
 $('html > body').imagesLoaded(function() {
+
+  $('.loading-page').addClass('hide');
+
   gsap.fromTo('.section-1__txt', {
     opacity: 0,
     y:50,

@@ -1,6 +1,4 @@
-$(function(){
-
-
+$('html > body').imagesLoaded(function() {
   gsap.fromTo('.section-1__txt', {
     opacity: 0,
     y:50,

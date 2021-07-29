@@ -1,0 +1,194 @@
+html, body {
+  margin:0;
+  padding:0;
+  user-select: none;
+}
+
+section {
+  width:100%;
+  height:calc(100%/11);
+  left:0;
+}
+
+.phone {
+  width:18.5%;
+  z-index: 2;
+}
+
+.video {
+  width:16.3%;
+  z-index: 1;
+}
+
+.section-1 {
+  top:0;
+}
+
+.section-1__txt {
+  width:50.833%;
+  bottom:5%;
+}
+
+.section-2 {
+  top:calc(100%/11);
+}
+
+.section-2__box > img {
+  display:block;
+  width:18.23%;
+  margin:0 1%;
+}
+
+.section-2__color {
+  width:54.166%;
+  top:53%;
+}
+
+.section-2__typo {
+  width:43.9%;
+  left:23%;
+  bottom:10%;
+}
+
+.section-3 {
+  top:calc(100%/11*2);
+}
+
+.section-3__chart {
+  width:64.58%;
+  top:30%;
+}
+
+.section-4 {
+  top:calc(100%/11*3);
+}
+
+.section-4__popup {
+  width:28.02%;
+  left:37%;
+  bottom:10%;
+}
+
+.section-5 {
+  top:calc(100%/11*4);
+}
+
+.section-5__txt {
+  width:28.333%;
+  top:29%;
+  left:25%;
+}
+
+.section-5__main {
+  width:25%;
+  top:15%;
+  right:20%;
+}
+
+.section-5__popup {
+  width:11.3%;
+  left:43%;
+  bottom:14%;
+}
+
+.section-6 {
+  top:calc(100%/11*5);
+}
+
+.section-6__choose {
+  width:52.55%;
+  top:21.7%;
+}
+
+.section-7 {
+  top:calc(100%/11*6);
+}
+
+.section-7__phone {
+  top:15%;
+  left:27%;
+}
+
+.section-7__video {
+  top:16.4%;
+  left:28.1%;
+}
+
+.section-7__txt {
+  width:32.656%;
+  top:20%;
+  left:44%;
+}
+
+.section-7__popup {
+  width: 29.8%;
+  bottom:30%;
+  left:49%;
+}
+
+.section-8 {
+  top:calc(100%/11*7);
+}
+
+.section-8__txt {
+  width:41.979%;
+  top:3%;
+}
+
+.section-8__phone {
+  top:23%;
+  left:33%;
+}
+
+.section-8__video {
+  top:24.9%;
+  left:34.1%;
+}
+
+.section-8__popup {
+  width:11.041666%;
+  top:28%;
+  right:33%;
+}
+
+.section-8__share {
+  width:15.625%;
+  right:30%;
+  bottom:3%;
+}
+
+.section-9 {
+  top:calc(100%/11*8);
+}
+
+.section-9__txt {
+  width: 31.8229%;
+  top:36%;
+  right:43%;
+}
+
+.section-9__phone {
+  top:17%;
+  right:25%;
+}
+
+.section-9__video {
+  top:18.9%;
+  right:26.1%;
+}
+
+.section-10 {
+  top:calc(100%/11*9);
+}
+
+.section-10__txt {
+  width:25.4166%;
+  top:35%;
+  left:25%;
+}
+
+.section-10__community {
+  width:21.1458%;
+  top:24.7%;
+  right:25%;
+}

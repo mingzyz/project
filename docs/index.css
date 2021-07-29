@@ -10,6 +10,10 @@ section {
   left:0;
 }
 
+.page-wrap {
+  max-width:1920px;
+}
+
 .phone {
   width:18.5%;
   z-index: 2;
